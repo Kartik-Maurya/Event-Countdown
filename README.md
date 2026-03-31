@@ -258,14 +258,14 @@ Or transfer the APK manually.
 
 ## Category Colors
 
-| Category | Color | Hex |
-|----------|:-----:|-----|
-| Birthday | 🟡 | `#E91E63` (Pink) |
-| Work | 🔵 | `#2196F3` (Blue) |
-| Exam | 🔴 | `#F44336` (Red) |
-| Personal | 🟢 | `#4CAF50` (Green) |
-| Travel | 🟠 | `#FF9800` (Orange) |
-| Other | 🟣 | `#9C27B0` (Purple) |
+| Category | Hex |
+|----------|-----|
+| Birthday | `#E91E63` Pink |
+| Work | `#2196F3` Blue |
+| Exam | `#F44336` Red |
+| Personal | `#4CAF50` Green |
+| Travel | `#FF9800` Orange |
+| Other | `#9C27B0` Purple |
 
 ---
 
