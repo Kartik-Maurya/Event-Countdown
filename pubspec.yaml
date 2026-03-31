@@ -1,0 +1,27 @@
+name: event_countdown
+description: "Event Countdown & Reminder Board - A personal milestone tracking app."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.3
+  flutter_local_notifications: ^19.1.0
+  intl: ^0.20.2
+  uuid: ^4.5.1
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  timezone: ^0.10.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
